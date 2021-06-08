@@ -590,9 +590,6 @@ const Home = ({ navigation }) => {
   }
 
 
-
-
-
   return (
     <SafeAreaView styles={styles.container}>
       {renderHeader()}

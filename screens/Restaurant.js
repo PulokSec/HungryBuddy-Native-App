@@ -6,4 +6,5 @@ export default function Restaurant() {
     <View>
       <Text>Restaurant</Text>
     </View>
+  )
 }
